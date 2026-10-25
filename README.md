@@ -105,12 +105,5 @@ This work builds on the open-source Rev C shim driver and controller firmware by
 - Arango N, et al. *Open-source, low-cost, flexible, current feedback-controlled driver circuit for local B0 shim coils and other applications.* Proc. ISMRM 2016; 1157.
 - Arango N, et al. *Open-source acquisition-speed slice-by-slice controller for 32 coil B0 shimming.* Proc. ISMRM 2017; 2682.
 
-## Citation
 
-If you use this code, please cite:
 
-> Yang Y, Liu Z, Hu P, Ren Z. Same boards, better control: open-source Teensy 4.1 controller and GUI with 16-bit full-range readback for MIT-MGH shim drivers. Submitted to ISMRM 2027.
-
-## License
-
-TBD
